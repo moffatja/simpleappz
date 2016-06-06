@@ -22,5 +22,5 @@ ENTRYPOINT /go/bin/simpleappz
 # Document that the service listens on port 9090.
 EXPOSE 9090
 
-ENV ZEUS_TOKEN=8dcccc00
+# ENV ZEUS_TOKEN=8dcccc00
 

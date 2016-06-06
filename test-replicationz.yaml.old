@@ -20,8 +20,5 @@ spec:
       containers:
       - name: simpleapp
         image: moffatja/simpleappz
-        env: 
-        - name: ZEUS_TOKEN
-          value: "8dcccc00"
         ports:
         - containerPort: 9090
