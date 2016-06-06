@@ -23,5 +23,7 @@ spec:
         env: 
         - name: ZEUS_TOKEN
           value: "8dcccc00"
+        - name: USER
+          value: "jmoffat"
         ports:
         - containerPort: 9090
